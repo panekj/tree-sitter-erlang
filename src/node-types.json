@@ -2342,14 +2342,12 @@
   {
     "type": "pp_else",
     "named": true,
-    "fields": {
-    }
+    "fields": {}
   },
   {
     "type": "pp_endif",
     "named": true,
-    "fields": {
-    }
+    "fields": {}
   },
   {
     "type": "pp_if",
@@ -2878,8 +2876,7 @@
   {
     "type": "replacement_parens",
     "named": true,
-    "fields": {
-    }
+    "fields": {}
   },
   {
     "type": "source_file",
@@ -3608,8 +3605,5 @@
   {
     "type": "}",
     "named": false
-  },
-  {
-    "@generated": true
   }
 ]

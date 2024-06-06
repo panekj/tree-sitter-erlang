@@ -6209,12 +6209,8 @@
       "expr_args"
     ]
   ],
-  "precedences": [
-
-  ],
-  "externals": [
-
-  ],
+  "precedences": [],
+  "externals": [],
   "inline": [
     "_fun_expr",
     "_map_expr",
@@ -6245,6 +6241,5 @@
     "_deprecated_fun_arity",
     "_desc",
     "_string_like"
-  ],
-  "@generated": true
+  ]
 }
